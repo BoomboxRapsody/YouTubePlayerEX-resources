@@ -787,4 +787,7 @@
   <data name="show_video_metadata_on_window_title" xml:space="preserve">
     <value>창 제목에 동영상 메타데이터 표시</value>
   </data>
+  <data name="player_control_pin" xml:space="preserve">
+    <value>항상 플레이어 컨트롤러 표시</value>
+  </data>
 </root>

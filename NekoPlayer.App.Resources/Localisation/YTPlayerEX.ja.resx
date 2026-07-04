@@ -784,4 +784,7 @@
   <data name="show_video_metadata_on_window_title" xml:space="preserve">
     <value>ウィンドウタイトルにビデオメタデータを表示します</value>
   </data>
+  <data name="player_control_pin" xml:space="preserve">
+    <value>常にプレイヤーのコントロールを表示します</value>
+  </data>
 </root>
