@@ -722,10 +722,10 @@
     <value>この設定は、NekoPlayer サウンドやその他のアプリケーション、システムサウンドをミュートします。</value>
   </data>
   <data name="report_bugs" xml:space="preserve">
-    <value>問題報告</value>
+    <value>フィードバック送信</value>
   </data>
   <data name="report_bugs_desc" xml:space="preserve">
-    <value>アプリの問題を開発者に報告します。</value>
+    <value>アプリでフィードバックを開発者に送信します。</value>
   </data>
   <data name="discord_not_installed" xml:space="preserve">
     <value>Discordはインストールされていません。 Discordをインストールして、あなたの活動を友達と共有しましょう！</value>
