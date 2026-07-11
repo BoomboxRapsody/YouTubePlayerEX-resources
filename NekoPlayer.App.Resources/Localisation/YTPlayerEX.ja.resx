@@ -787,4 +787,7 @@
   <data name="player_control_pin" xml:space="preserve">
     <value>常にプレイヤーのコントロールを表示します</value>
   </data>
+  <data name="karaoke_mode" xml:space="preserve">
+    <value>ボーカルリムーバー（実験用）</value>
+  </data>
 </root>

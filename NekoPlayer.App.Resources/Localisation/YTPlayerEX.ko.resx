@@ -790,4 +790,7 @@
   <data name="player_control_pin" xml:space="preserve">
     <value>항상 플레이어 컨트롤러 표시</value>
   </data>
+  <data name="karaoke_mode" xml:space="preserve">
+    <value>보컬 제거 (실험적)</value>
+  </data>
 </root>
